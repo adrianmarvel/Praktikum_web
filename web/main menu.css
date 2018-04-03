@@ -1,0 +1,39 @@
+body{
+	background-color: FF9593;
+}
+
+.logo{
+	border-style: solid;
+	padding-top: 40px;
+}
+.header {
+	height: 200px;
+	border-style: solid;
+}
+.Home
+{
+	border-style: solid;
+	text-align: center;
+}
+.Konten
+{
+	border-style: solid;
+	text-align: center;
+}
+.Profil
+{
+	border-style: solid;
+	text-align: center;
+}
+.kontenMainMenu
+{
+	border-style: solid;
+	height: 350px;
+}
+.cp1
+{
+	border-style: solid;
+	height: 100px;
+	text-align: center;
+	padding-top: 20px;
+}
